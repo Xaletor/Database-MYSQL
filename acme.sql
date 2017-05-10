@@ -43,7 +43,7 @@ CREATE TABLE `employee` (
 --
 
 INSERT INTO `employee` (`id`, `employeeId`, `firstName`, `lastName`, `phoneNum`, `email`, `address`, `city`, `state`) VALUES
-(1, 1051, 'Joseph', 'Rand', '(469) 525-7818', 'josephrandtx@gmail.com', '53 Blossom St', 'Leominster', 'Massachusetts'),
+(1, 1051, 'John', 'Benny', '(469) 828-7882', 'johnBennytx@gmail.com', '55 Blouse St', 'Fitchburg', 'Massachusetts'),
 (2, 1052, 'Marco', 'Brooks', '(714) 421-3606', 'marcobrooksUwP@teleosaurs.xyz', '6144 Evergreen Court', 'Irvine', 'California'),
 (3, 1053, 'Thalia', 'Vega', '(830) 215-1655', 'thaliavegaCTN@teleosaurs.xyz', '8456 Odell Road', 'Del Rio', 'Texas'),
 (4, 1054, 'Kimberly', 'Gentry', '(508) 463-3266', 'kimberlygentryH2t@teleosaurs.xyz', '2121 Fletcher Street', 'Mashpee', 'Massashusetts'),
